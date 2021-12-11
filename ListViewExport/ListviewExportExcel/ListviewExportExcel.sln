@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListviewExportExcel", "ListviewExportExcel\ListviewExportExcel.csproj", "{1F3F4B27-8BDB-4BC8-8881-26511F7AE024}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListviewExportExcel", "ListviewExportExcel\ListviewExportExcel.csproj", "{1F3F4B27-8BDB-4BC8-8881-26511F7AE024}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExportExcel", "ExportExcel\ExportExcel.vdproj", "{F7620AF2-8546-449E-8ACB-00FE09EA8B14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{1F3F4B27-8BDB-4BC8-8881-26511F7AE024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F3F4B27-8BDB-4BC8-8881-26511F7AE024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F3F4B27-8BDB-4BC8-8881-26511F7AE024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7620AF2-8546-449E-8ACB-00FE09EA8B14}.Debug|Any CPU.ActiveCfg = Debug
+		{F7620AF2-8546-449E-8ACB-00FE09EA8B14}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
